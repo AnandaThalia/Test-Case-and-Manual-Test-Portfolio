@@ -1,7 +1,6 @@
 # Test-Case-and-Manual-Test-Portfolio
 Welcome to my Software Quality Assurance Portfolio! 
 This repository contains a comprehensive collection of:
-Including : 
 - Test cases
 - Manual test results
 - Bug reports

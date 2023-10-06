@@ -1,7 +1,11 @@
 # Test-Case-and-Manual-Test-Portfolio
-This is my Software Quality Assurance Portofolio. 
+Welcome to my Software Quality Assurance Portfolio! 
+This repository contains a comprehensive collection of:
 Including : 
-- test cases
-- manual tests
-- bug reports
-- Connect with me via Email ananda.thalia1701@gmail.com or Linkedin https://www.linkedin.com/in/ananda-thalia/
+- Test cases
+- Manual test results
+- Bug reports
+
+If you have any questions or would like to connect, please feel free to reach out to me via:
+Email: ananda.thalia1701@gmail.com
+LinkedIn: LinkedIn Profile
